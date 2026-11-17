@@ -1,18 +1,27 @@
-C and C++ Programming
-About
+🚀 My Programming Journey
 
-This repository contains my practice programs written in C, C++, and Python.
+Hi! I'm Bithi Mandal.
 
-Files
-code.cpp - C++ practice program
-code.py - Python practice program
-hello.c - Hello World program in C
-hello.cpp - Hello World program in C++
-pass_fail.c - Pass or Fail program in C
-Languages Used
+This repository contains my beginner-level practice programs in C, C++, and Python.
+
+I'm learning programming step by step and uploading my code here as I improve my skills.
+
+💻 Languages I'm Learning
 C
 C++
 Python
-Author
+📂 My Programs
+hello.c – My first C program.
+hello.cpp – My first C++ program.
+code.cpp – C++ practice.
+code.py – Python practice.
+pass_fail.c – A simple pass or fail program in C.
+🛠️ Tools I Use
+Visual Studio Code
+Git
+GitHub
+🎯 My Goal
 
-Bithi Mandal
+To learn programming, improve my problem-solving skills, and become a better developer.
+
+⭐ Thanks for visiting my repository! 😊
